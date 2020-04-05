@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="3400" started-at="2020-04-05T16:06:19Z" finished-at="2020-04-05T16:06:23Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="3400" started-at="2020-04-05T16:06:19Z" finished-at="2020-04-05T16:06:23Z">
+      <class name="testcases.TestGetxml">
+        <test-method status="PASS" signature="Jenk()[pri:0, instance:testcases.TestGetxml@9d9c55]" name="Jenk" duration-ms="1" started-at="2020-04-05T21:36:19Z" finished-at="2020-04-05T21:36:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jenk -->
+      </class> <!-- testcases.TestGetxml -->
+      <class name="testcases.TestFirstWin">
+        <test-method status="PASS" signature="TestMWWE()[pri:0, instance:testcases.TestFirstWin@1a57a3b]" name="TestMWWE" duration-ms="11" started-at="2020-04-05T21:36:19Z" finished-at="2020-04-05T21:36:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMWWE -->
+      </class> <!-- testcases.TestFirstWin -->
+      <class name="testcases.TestWebService">
+        <test-method status="PASS" signature="testRequest()[pri:0, instance:testcases.TestWebService@1551a94]" name="testRequest" duration-ms="3373" started-at="2020-04-05T21:36:19Z" finished-at="2020-04-05T21:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRequest -->
+      </class> <!-- testcases.TestWebService -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
