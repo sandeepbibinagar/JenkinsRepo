@@ -24,7 +24,7 @@ public class TestGetxml {
 	@Test
 	public void Jenk(){
 		
-		System.out.println("..this is jenkins method");
+		System.out.println("..this is 444444444 method");
 		
 		
 		
