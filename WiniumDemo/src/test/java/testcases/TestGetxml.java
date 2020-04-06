@@ -24,7 +24,7 @@ public class TestGetxml {
 	@Test
 	public void Jenk(){
 		
-		System.out.println("..this is getxm method");
+		System.out.println("..thisssssssssss is getxm method");
 		
 		
 		
