@@ -22,7 +22,7 @@ public class TestWebService {
 	public void testBody(){
 	res =RestAssured.get("https://reqres.in/api/users/2");
 	String data= res.asString();
-	System.out.println(" Changes test .... : " +data);
+	System.out.println(" MMMMMMMMMMMM test .... : " +data);
 	
 	}
 }
