@@ -42,7 +42,7 @@ public class TestFirstWin {
 			s.add("dasd");
 			s.add("sdstr");
 			s.add("sdtrs");
-			System.out.println(s.size());
+			System.out.println("The size is " + s.size());
 			
 			
 		
