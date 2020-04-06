@@ -25,8 +25,8 @@ public class TestFirstWin {
 		*/
 		List al = new ArrayList<String>();
 		
-		al.add("sss");
-		al.add("sandgo");
+		al.add("ww");
+		al.add("qq");
 		
 		System.out.println(al.get(1));
 		
