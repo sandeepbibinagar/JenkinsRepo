@@ -25,8 +25,8 @@ public class TestFirstWin {
 		*/
 		List al = new ArrayList<String>();
 		
-		al.add("3");
-		al.add("2222222222222222");
+		al.add("333333");
+		al.add("88888888");
 		
 		System.out.println(al.get(1));
 		
