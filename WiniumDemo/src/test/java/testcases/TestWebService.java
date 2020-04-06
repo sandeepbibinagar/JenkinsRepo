@@ -13,7 +13,7 @@ public class TestWebService {
 		
 	 res= RestAssured.get("https://reqres.in/api/users/2");
 	int code=res.getStatusCode();
-	System.out.println("Status code is : " +code);
+	System.out.println("Status code expected is 200  : " +code);
 
 	}
 
